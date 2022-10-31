@@ -1,0 +1,35 @@
+version: '3.5'
+volumes:
+  database-data:
+services:
+  postgres:
+    image: postgres:14.3-alpine3.16
+    command: ["postgres", "-c", "log_statement=all", "-c", "log_destination=stderr", "-c", "max_connections=1000"]
+    ports:
+      - 19371:5432
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      PGDATA: /data
+      POSTGRES_HOST_AUTH_METHOD: "md5"
+    volumes:
+      - database-data:/data
+  selenium-hub:
+    image: seleniarm/hub:4.1.4-20220429
+    ports:
+      - "4442:4442"
+      - "4443:4443"
+      - "4444:4444"
+  chrome:
+    image: seleniarm/node-chromium:4.1.4-20220429
+    shm_size: 2gb
+    depends_on:
+      - selenium-hub
+    environment:
+      - SE_NODE_MAX_SESSIONS=16
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_NODE_GRID_URL=http://localhost:4444
+    ports:
+      - "6900:5900"

@@ -1,0 +1,16 @@
+{
+    "m": "qsd",
+    "p": [
+        "qs_tzSmh3n7mcDA",
+        {
+            "n": "NASDAQ:TSLA",
+            "s": "ok",
+            "v": {
+                "web_site_url": "http://www.tesla.com",
+                "sector-i18n-en": "Consumer Durables",
+                "industry": "Motor Vehicles",
+                "business_description": "tesla about it"
+            }
+        }
+    ]
+}

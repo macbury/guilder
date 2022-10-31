@@ -1,0 +1,1613 @@
+[
+  {
+    "alpha3": "AED",
+    "numeric": "784",
+    "name": "United Arab Emirates dirham",
+    "used_by_alpha2": "AE",
+    "symbol": "د.إ",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AFN",
+    "numeric": "971",
+    "name": "Afghan afghani",
+    "used_by_alpha2": "AF",
+    "symbol": "؋",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ALL",
+    "numeric": "008",
+    "name": "Albanian lek",
+    "used_by_alpha2": "AL",
+    "symbol": "L",
+    "subunit_symbol": "q",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AMD",
+    "numeric": "051",
+    "name": "Armenian dram",
+    "used_by_alpha2": "AM",
+    "symbol": "֏",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ANG",
+    "numeric": "532",
+    "name": "Netherlands Antillean guilder",
+    "used_by_alpha2": "CW;SX",
+    "symbol": "ƒ",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AOA",
+    "numeric": "973",
+    "name": "Angolan kwanza",
+    "used_by_alpha2": "AO",
+    "symbol": "Kz",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ARS",
+    "numeric": "032",
+    "name": "Argentine peso",
+    "used_by_alpha2": "AR",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AUD",
+    "numeric": "036",
+    "name": "Australian dollar",
+    "used_by_alpha2": "AU;CX;CC;HM;KI;NR;NF;TV",
+    "symbol": "$",
+    "subunit_symbol": "c",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AWG",
+    "numeric": "533",
+    "name": "Aruban florin",
+    "used_by_alpha2": "AW",
+    "symbol": "ƒ",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "AZN",
+    "numeric": "944",
+    "name": "Azerbaijani manat",
+    "used_by_alpha2": "AZ",
+    "symbol": "₼",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BAM",
+    "numeric": "977",
+    "name": "Bosnia and Herzegovina convertible mark",
+    "used_by_alpha2": "BA",
+    "symbol": "KM",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BBD",
+    "numeric": "052",
+    "name": "Barbados dollar",
+    "used_by_alpha2": "BB",
+    "symbol": "Bds$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BDT",
+    "numeric": "050",
+    "name": "Bangladeshi taka",
+    "used_by_alpha2": "BD",
+    "symbol": "৳",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BGN",
+    "numeric": "975",
+    "name": "Bulgarian lev",
+    "used_by_alpha2": "BG",
+    "symbol": "лв.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BHD",
+    "numeric": "048",
+    "name": "Bahraini dinar",
+    "used_by_alpha2": "BH",
+    "symbol": ".د.ب",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "BIF",
+    "numeric": "108",
+    "name": "Burundian franc",
+    "used_by_alpha2": "BI",
+    "symbol": "FBu",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BMD",
+    "numeric": "060",
+    "name": "Bermudian dollar",
+    "used_by_alpha2": "BM",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BND",
+    "numeric": "096",
+    "name": "Brunei dollar",
+    "used_by_alpha2": "BN",
+    "symbol": "B$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BOB",
+    "numeric": "068",
+    "name": "Boliviano",
+    "used_by_alpha2": "BO",
+    "symbol": "Bs.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BOV",
+    "numeric": "984",
+    "name": "Bolivian Mvdol",
+    "used_by_alpha2": "BO",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "BRL",
+    "numeric": "986",
+    "name": "Brazilian real",
+    "used_by_alpha2": "BR",
+    "symbol": "R$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BSD",
+    "numeric": "044",
+    "name": "Bahamian dollar",
+    "used_by_alpha2": "BS",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BTN",
+    "numeric": "064",
+    "name": "Bhutanese ngultrum",
+    "used_by_alpha2": "BT",
+    "symbol": "Nu.",
+    "subunit_symbol": "Ch.",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BWP",
+    "numeric": "072",
+    "name": "Botswana pula",
+    "used_by_alpha2": "BW",
+    "symbol": "P",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BYN",
+    "numeric": "933",
+    "name": "Belarusian ruble",
+    "used_by_alpha2": "BY",
+    "symbol": "Br",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "BZD",
+    "numeric": "084",
+    "name": "Belize dollar",
+    "used_by_alpha2": "BZ",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CAD",
+    "numeric": "124",
+    "name": "Canadian dollar",
+    "used_by_alpha2": "CA",
+    "symbol": "$",
+    "subunit_symbol": "¢",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CDF",
+    "numeric": "976",
+    "name": "Congolese franc",
+    "used_by_alpha2": "CD",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CHE",
+    "numeric": "947",
+    "name": "WIR Euro",
+    "used_by_alpha2": "CH",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CHF",
+    "numeric": "756",
+    "name": "Swiss franc",
+    "used_by_alpha2": "CH;LI",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CHW",
+    "numeric": "948",
+    "name": "WIR Franc",
+    "used_by_alpha2": "CH",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CLF",
+    "numeric": "990",
+    "name": "Unidad de Fomento",
+    "used_by_alpha2": "CL",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CLP",
+    "numeric": "152",
+    "name": "Chilean peso",
+    "used_by_alpha2": "CL",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CNY",
+    "numeric": "156",
+    "name": "Renminbi (Chinese) yuan",
+    "used_by_alpha2": "CN",
+    "symbol": "¥",
+    "subunit_symbol": "",
+    "subunit_fraction": "10"
+  },
+  {
+    "alpha3": "COP",
+    "numeric": "170",
+    "name": "Colombian peso",
+    "used_by_alpha2": "CO",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "COU",
+    "numeric": "970",
+    "name": "Unidad de Valor Real (UVR)",
+    "used_by_alpha2": "CO",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CRC",
+    "numeric": "188",
+    "name": "Costa Rican colon",
+    "used_by_alpha2": "CR",
+    "symbol": "₡",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CUC",
+    "numeric": "931",
+    "name": "Cuban convertible peso",
+    "used_by_alpha2": "CU",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CUP",
+    "numeric": "192",
+    "name": "Cuban peso",
+    "used_by_alpha2": "CU",
+    "symbol": "₱",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CVE",
+    "numeric": "132",
+    "name": "Cape Verdean escudo",
+    "used_by_alpha2": "CV",
+    "symbol": "Esc",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "CZK",
+    "numeric": "203",
+    "name": "Czech koruna",
+    "used_by_alpha2": "CZ",
+    "symbol": "Kč",
+    "subunit_symbol": "h",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "DJF",
+    "numeric": "262",
+    "name": "Djiboutian franc",
+    "used_by_alpha2": "DJ",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "DKK",
+    "numeric": "208",
+    "name": "Danish krone",
+    "used_by_alpha2": "DK;FO;GL",
+    "symbol": "kr",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "DOP",
+    "numeric": "214",
+    "name": "Dominican peso",
+    "used_by_alpha2": "DO",
+    "symbol": "RD$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "DZD",
+    "numeric": "012",
+    "name": "Algerian dinar",
+    "used_by_alpha2": "DZ",
+    "symbol": "دج",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "EGP",
+    "numeric": "818",
+    "name": "Egyptian pound",
+    "used_by_alpha2": "EG",
+    "symbol": "£",
+    "subunit_symbol": "pt",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ERN",
+    "numeric": "232",
+    "name": "Eritrean nakfa",
+    "used_by_alpha2": "ER",
+    "symbol": "Nfk",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ETB",
+    "numeric": "230",
+    "name": "Ethiopian birr",
+    "used_by_alpha2": "ET",
+    "symbol": "Br",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "EUR",
+    "numeric": "978",
+    "name": "Euro",
+    "used_by_alpha2": "AX;AD;AT;BE;CY;EE;FI;FR;TF;DE;GR;GP;IE;IT;LV;LT;LU;MT;GF;MQ;YT;MC;ME;NL;PT;RE;BL;MF;PM;SM;SK;SI;ES;VA",
+    "symbol": "€",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "FJD",
+    "numeric": "242",
+    "name": "Fiji dollar",
+    "used_by_alpha2": "FJ",
+    "symbol": "FJ$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "FKP",
+    "numeric": "238",
+    "name": "Falkland Islands pound",
+    "used_by_alpha2": "FK",
+    "symbol": "£",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GBP",
+    "numeric": "826",
+    "name": "Pound sterling",
+    "used_by_alpha2": "GB;IO;IM;JE;GG",
+    "symbol": "£",
+    "subunit_symbol": "p",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GEL",
+    "numeric": "981",
+    "name": "Georgian lari",
+    "used_by_alpha2": "GE",
+    "symbol": "ლ",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GHS",
+    "numeric": "936",
+    "name": "Ghanaian cedi",
+    "used_by_alpha2": "GH",
+    "symbol": "GH₵",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GIP",
+    "numeric": "292",
+    "name": "Gibraltar pound",
+    "used_by_alpha2": "GI",
+    "symbol": "£",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GMD",
+    "numeric": "270",
+    "name": "Gambian dalasi",
+    "used_by_alpha2": "GM",
+    "symbol": "D",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GNF",
+    "numeric": "324",
+    "name": "Guinean franc",
+    "used_by_alpha2": "GN",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GTQ",
+    "numeric": "320",
+    "name": "Guatemalan quetzal",
+    "used_by_alpha2": "GT",
+    "symbol": "Q",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "GYD",
+    "numeric": "328",
+    "name": "Guyanese dollar",
+    "used_by_alpha2": "GY",
+    "symbol": "G$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "HKD",
+    "numeric": "344",
+    "name": "Hong Kong dollar",
+    "used_by_alpha2": "HK",
+    "symbol": "HK$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "HNL",
+    "numeric": "340",
+    "name": "Honduran lempira",
+    "used_by_alpha2": "HN",
+    "symbol": "L",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "HRK",
+    "numeric": "191",
+    "name": "Croatian kuna",
+    "used_by_alpha2": "HR",
+    "symbol": "kn",
+    "subunit_symbol": "lp",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "HTG",
+    "numeric": "332",
+    "name": "Haitian gourde",
+    "used_by_alpha2": "HT",
+    "symbol": "G",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "HUF",
+    "numeric": "348",
+    "name": "Hungarian forint",
+    "used_by_alpha2": "HU",
+    "symbol": "Ft",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "IDR",
+    "numeric": "360",
+    "name": "Indonesian rupiah",
+    "used_by_alpha2": "ID",
+    "symbol": "Rp",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ILS",
+    "numeric": "376",
+    "name": "Israeli new shekel",
+    "used_by_alpha2": "IL;PS",
+    "symbol": "₪",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "INR",
+    "numeric": "356",
+    "name": "Indian rupee",
+    "used_by_alpha2": "IN;BT",
+    "symbol": "₹",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "IQD",
+    "numeric": "368",
+    "name": "Iraqi dinar",
+    "used_by_alpha2": "IQ",
+    "symbol": "د.ع",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "IRR",
+    "numeric": "364",
+    "name": "Iranian rial",
+    "used_by_alpha2": "IR",
+    "symbol": "﷼",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ISK",
+    "numeric": "352",
+    "name": "Icelandic króna",
+    "used_by_alpha2": "IS",
+    "symbol": "kr",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "JMD",
+    "numeric": "388",
+    "name": "Jamaican dollar",
+    "used_by_alpha2": "JM",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "JOD",
+    "numeric": "400",
+    "name": "Jordanian dinar",
+    "used_by_alpha2": "JO",
+    "symbol": "JD",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "JPY",
+    "numeric": "392",
+    "name": "Japanese yen",
+    "used_by_alpha2": "JP",
+    "symbol": "¥",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KES",
+    "numeric": "404",
+    "name": "Kenyan shilling",
+    "used_by_alpha2": "KE",
+    "symbol": "Ksh",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KGS",
+    "numeric": "417",
+    "name": "Kyrgyzstani som",
+    "used_by_alpha2": "KG",
+    "symbol": "С̲",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KHR",
+    "numeric": "116",
+    "name": "Cambodian riel",
+    "used_by_alpha2": "KH",
+    "symbol": "៛",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KMF",
+    "numeric": "174",
+    "name": "Comoro franc",
+    "used_by_alpha2": "KM",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KPW",
+    "numeric": "408",
+    "name": "North Korean won",
+    "used_by_alpha2": "KP",
+    "symbol": "₩",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KRW",
+    "numeric": "410",
+    "name": "South Korean won",
+    "used_by_alpha2": "KR",
+    "symbol": "₩",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KWD",
+    "numeric": "414",
+    "name": "Kuwaiti dinar",
+    "used_by_alpha2": "KW",
+    "symbol": "د.ك",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "KYD",
+    "numeric": "136",
+    "name": "Cayman Islands dollar",
+    "used_by_alpha2": "KY",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "KZT",
+    "numeric": "398",
+    "name": "Kazakhstani tenge",
+    "used_by_alpha2": "KZ",
+    "symbol": "₸",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LAK",
+    "numeric": "418",
+    "name": "Lao kip",
+    "used_by_alpha2": "LA",
+    "symbol": "₭",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LBP",
+    "numeric": "422",
+    "name": "Lebanese pound",
+    "used_by_alpha2": "LB",
+    "symbol": "LL",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LKR",
+    "numeric": "144",
+    "name": "Sri Lankan rupee",
+    "used_by_alpha2": "LK",
+    "symbol": "₨",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LRD",
+    "numeric": "430",
+    "name": "Liberian dollar",
+    "used_by_alpha2": "LR",
+    "symbol": "L$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LSL",
+    "numeric": "426",
+    "name": "Lesotho loti",
+    "used_by_alpha2": "LS",
+    "symbol": "M",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "LYD",
+    "numeric": "434",
+    "name": "Libyan dinar",
+    "used_by_alpha2": "LY",
+    "symbol": "ل.د",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "MAD",
+    "numeric": "504",
+    "name": "Moroccan dirham",
+    "used_by_alpha2": "MA;EH",
+    "symbol": "د.م.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MDL",
+    "numeric": "498",
+    "name": "Moldovan leu",
+    "used_by_alpha2": "MD",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MGA",
+    "numeric": "969",
+    "name": "Malagasy ariary",
+    "used_by_alpha2": "MG",
+    "symbol": "Ar",
+    "subunit_symbol": "",
+    "subunit_fraction": "5"
+  },
+  {
+    "alpha3": "MKD",
+    "numeric": "807",
+    "name": "Macedonian denar",
+    "used_by_alpha2": "MK",
+    "symbol": "ден",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MMK",
+    "numeric": "104",
+    "name": "Myanmar kyat",
+    "used_by_alpha2": "MM",
+    "symbol": "K",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MNT",
+    "numeric": "496",
+    "name": "Mongolian tögrög",
+    "used_by_alpha2": "MN",
+    "symbol": "₮",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MOP",
+    "numeric": "446",
+    "name": "Macanese pataca",
+    "used_by_alpha2": "MO",
+    "symbol": "MOP$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MRU",
+    "numeric": "929",
+    "name": "Mauritanian ouguiya",
+    "used_by_alpha2": "MR",
+    "symbol": "UM",
+    "subunit_symbol": "",
+    "subunit_fraction": "5"
+  },
+  {
+    "alpha3": "MUR",
+    "numeric": "480",
+    "name": "Mauritian rupee",
+    "used_by_alpha2": "MU",
+    "symbol": "₨",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MVR",
+    "numeric": "462",
+    "name": "Maldivian rufiyaa",
+    "used_by_alpha2": "MV",
+    "symbol": "Rf.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MWK",
+    "numeric": "454",
+    "name": "Malawian kwacha",
+    "used_by_alpha2": "MW",
+    "symbol": "K",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MXN",
+    "numeric": "484",
+    "name": "Mexican peso",
+    "used_by_alpha2": "MX",
+    "symbol": "$",
+    "subunit_symbol": "¢",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MXV",
+    "numeric": "979",
+    "name": "Mexican Unidad de Inversion (UDI)",
+    "used_by_alpha2": "MX",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MYR",
+    "numeric": "458",
+    "name": "Malaysian ringgit",
+    "used_by_alpha2": "MY",
+    "symbol": "RM",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "MZN",
+    "numeric": "943",
+    "name": "Mozambican metical",
+    "used_by_alpha2": "MZ",
+    "symbol": "MT",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NAD",
+    "numeric": "516",
+    "name": "Namibian dollar",
+    "used_by_alpha2": "NA",
+    "symbol": "N$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NGN",
+    "numeric": "566",
+    "name": "Nigerian naira",
+    "used_by_alpha2": "NG",
+    "symbol": "₦",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NIO",
+    "numeric": "558",
+    "name": "Nicaraguan córdoba",
+    "used_by_alpha2": "NI",
+    "symbol": "C$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NOK",
+    "numeric": "578",
+    "name": "Norwegian krone",
+    "used_by_alpha2": "NO;SJ;BV",
+    "symbol": "kr",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NPR",
+    "numeric": "524",
+    "name": "Nepalese rupee",
+    "used_by_alpha2": "NP",
+    "symbol": "₨",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "NZD",
+    "numeric": "554",
+    "name": "New Zealand dollar",
+    "used_by_alpha2": "NZ;CK;NU;PN;TK",
+    "symbol": "$",
+    "subunit_symbol": "c",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "OMR",
+    "numeric": "512",
+    "name": "Omani rial",
+    "used_by_alpha2": "OM",
+    "symbol": "ر.ع.",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "PAB",
+    "numeric": "590",
+    "name": "Panamanian balboa",
+    "used_by_alpha2": "PA",
+    "symbol": "B/.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PEN",
+    "numeric": "604",
+    "name": "Peruvian sol",
+    "used_by_alpha2": "PE",
+    "symbol": "S/",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PGK",
+    "numeric": "598",
+    "name": "Papua New Guinean kina",
+    "used_by_alpha2": "PG",
+    "symbol": "K",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PHP",
+    "numeric": "608",
+    "name": "Philippine peso",
+    "used_by_alpha2": "PH",
+    "symbol": "₱",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PKR",
+    "numeric": "586",
+    "name": "Pakistani rupee",
+    "used_by_alpha2": "PK",
+    "symbol": "₨",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PLN",
+    "numeric": "985",
+    "name": "Polish złoty",
+    "used_by_alpha2": "PL",
+    "symbol": "zł",
+    "subunit_symbol": "gr",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "PYG",
+    "numeric": "600",
+    "name": "Paraguayan guaraní",
+    "used_by_alpha2": "PY",
+    "symbol": "₲",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "QAR",
+    "numeric": "634",
+    "name": "Qatari riyal",
+    "used_by_alpha2": "QA",
+    "symbol": "ر.ق",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "RON",
+    "numeric": "946",
+    "name": "Romanian leu",
+    "used_by_alpha2": "RO",
+    "symbol": "L",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "RSD",
+    "numeric": "941",
+    "name": "Serbian dinar",
+    "used_by_alpha2": "RS",
+    "symbol": "дин",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "RUB",
+    "numeric": "643",
+    "name": "Russian ruble",
+    "used_by_alpha2": "RU",
+    "symbol": "₽",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "RWF",
+    "numeric": "646",
+    "name": "Rwandan franc",
+    "used_by_alpha2": "RW",
+    "symbol": "FRw",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SAR",
+    "numeric": "682",
+    "name": "Saudi riyal",
+    "used_by_alpha2": "SA",
+    "symbol": "ر.س",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SBD",
+    "numeric": "090",
+    "name": "Solomon Islands dollar",
+    "used_by_alpha2": "SB",
+    "symbol": "S$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SCR",
+    "numeric": "690",
+    "name": "Seychelles rupee",
+    "used_by_alpha2": "SC",
+    "symbol": "SRe",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SDG",
+    "numeric": "938",
+    "name": "Sudanese pound",
+    "used_by_alpha2": "SD",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SEK",
+    "numeric": "752",
+    "name": "Swedish krona/kronor",
+    "used_by_alpha2": "SE",
+    "symbol": "kr",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SGD",
+    "numeric": "702",
+    "name": "Singapore dollar",
+    "used_by_alpha2": "SG",
+    "symbol": "S$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SHP",
+    "numeric": "654",
+    "name": "Saint Helena pound",
+    "used_by_alpha2": "SH",
+    "symbol": "£",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SLL",
+    "numeric": "694",
+    "name": "Sierra Leonean leone",
+    "used_by_alpha2": "SL",
+    "symbol": "Le",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SOS",
+    "numeric": "706",
+    "name": "Somali shilling",
+    "used_by_alpha2": "SO",
+    "symbol": "Sh.So.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SRD",
+    "numeric": "968",
+    "name": "Surinamese dollar",
+    "used_by_alpha2": "SR",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SSP",
+    "numeric": "728",
+    "name": "South Sudanese pound",
+    "used_by_alpha2": "SS",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "STN",
+    "numeric": "930",
+    "name": "São Tomé and Príncipe dobra",
+    "used_by_alpha2": "ST",
+    "symbol": "Db",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SVC",
+    "numeric": "222",
+    "name": "Salvadoran colón",
+    "used_by_alpha2": "SV",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SYP",
+    "numeric": "760",
+    "name": "Syrian pound",
+    "used_by_alpha2": "SY",
+    "symbol": "LS",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "SZL",
+    "numeric": "748",
+    "name": "Swazi lilangeni",
+    "used_by_alpha2": "SZ",
+    "symbol": "E",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "THB",
+    "numeric": "764",
+    "name": "Thai baht",
+    "used_by_alpha2": "TH",
+    "symbol": "฿",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TJS",
+    "numeric": "972",
+    "name": "Tajikistani somoni",
+    "used_by_alpha2": "TJ",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TMT",
+    "numeric": "934",
+    "name": "Turkmenistan manat",
+    "used_by_alpha2": "TM",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TND",
+    "numeric": "788",
+    "name": "Tunisian dinar",
+    "used_by_alpha2": "TN",
+    "symbol": "د.ت",
+    "subunit_symbol": "",
+    "subunit_fraction": "1000"
+  },
+  {
+    "alpha3": "TOP",
+    "numeric": "776",
+    "name": "Tongan paʻanga",
+    "used_by_alpha2": "TO",
+    "symbol": "T$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TRY",
+    "numeric": "949",
+    "name": "Turkish lira",
+    "used_by_alpha2": "TR",
+    "symbol": "₺",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TTD",
+    "numeric": "780",
+    "name": "Trinidad and Tobago dollar",
+    "used_by_alpha2": "TT",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TWD",
+    "numeric": "901",
+    "name": "New Taiwan dollar",
+    "used_by_alpha2": "TW",
+    "symbol": "NT$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "TZS",
+    "numeric": "834",
+    "name": "Tanzanian shilling",
+    "used_by_alpha2": "TZ",
+    "symbol": "Tsh",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UAH",
+    "numeric": "980",
+    "name": "Ukrainian hryvnia",
+    "used_by_alpha2": "UA",
+    "symbol": "₴",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UGX",
+    "numeric": "800",
+    "name": "Ugandan shilling",
+    "used_by_alpha2": "UG",
+    "symbol": "USh",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "USD",
+    "numeric": "840",
+    "name": "United States dollar",
+    "used_by_alpha2": "US;AS;BB;BM;IO;VG;BQ;EC;SV;GU;HT;MH;FM;MP;PW;PA;PR;TL;TC;VI;UM;KH",
+    "symbol": "$",
+    "subunit_symbol": "¢",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "USN",
+    "numeric": "997",
+    "name": "United States dollar (next day)",
+    "used_by_alpha2": "US",
+    "symbol": "$",
+    "subunit_symbol": "¢",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UYI",
+    "numeric": "940",
+    "name": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+    "used_by_alpha2": "UY",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UYU",
+    "numeric": "858",
+    "name": "Uruguayan peso",
+    "used_by_alpha2": "UY",
+    "symbol": "$U",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UYW",
+    "numeric": "927",
+    "name": "Unidad previsional",
+    "used_by_alpha2": "UY",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "UZS",
+    "numeric": "860",
+    "name": "Uzbekistan som",
+    "used_by_alpha2": "UZ",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "VES",
+    "numeric": "928",
+    "name": "Venezuelan bolívar soberano",
+    "used_by_alpha2": "VE",
+    "symbol": "Bs.",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "VND",
+    "numeric": "704",
+    "name": "Vietnamese đồng",
+    "used_by_alpha2": "VN",
+    "symbol": "₫",
+    "subunit_symbol": "",
+    "subunit_fraction": "10"
+  },
+  {
+    "alpha3": "VUV",
+    "numeric": "548",
+    "name": "Vanuatu vatu",
+    "used_by_alpha2": "VU",
+    "symbol": "VT",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "WST",
+    "numeric": "882",
+    "name": "Samoan tala",
+    "used_by_alpha2": "WS",
+    "symbol": "WS$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XAF",
+    "numeric": "950",
+    "name": "CFA franc BEAC",
+    "used_by_alpha2": "CM;CF;CG;TD;GQ;GA",
+    "symbol": "FCFA",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XAG",
+    "numeric": "961",
+    "name": "Silver (one troy ounce)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XAU",
+    "numeric": "959",
+    "name": "Gold (one troy ounce)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XBA",
+    "numeric": "955",
+    "name": "European Composite Unit (EURCO)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XBB",
+    "numeric": "956",
+    "name": "European Monetary Unit (E.M.U.-6)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XBC",
+    "numeric": "957",
+    "name": "European Unit of Account 9 (E.U.A.-9)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XBD",
+    "numeric": "958",
+    "name": "European Unit of Account 17 (E.U.A.-17)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XCD",
+    "numeric": "951",
+    "name": "East Caribbean dollar",
+    "used_by_alpha2": "AI;AG;DM;GD;MS;KN;LC;VC",
+    "symbol": "$",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XDR",
+    "numeric": "960",
+    "name": "Special drawing rights",
+    "used_by_alpha2": "",
+    "symbol": "SDR",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XOF",
+    "numeric": "952",
+    "name": "CFA franc BCEAO",
+    "used_by_alpha2": "BJ;BF;CI;GW;ML;NE;SN;TG",
+    "symbol": "CFA",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XPD",
+    "numeric": "964",
+    "name": "Palladium (one troy ounce)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XPF",
+    "numeric": "953",
+    "name": "CFP franc (franc Pacifique)",
+    "used_by_alpha2": "PF;NC;WF",
+    "symbol": "₣",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XPT",
+    "numeric": "962",
+    "name": "Platinum (one troy ounce)",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "XSU",
+    "numeric": "994",
+    "name": "SUCRE",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XTS",
+    "numeric": "963",
+    "name": "Code reserved for testing",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XUA",
+    "numeric": "965",
+    "name": "ADB Unit of Account",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "XXX",
+    "numeric": "999",
+    "name": "No currency",
+    "used_by_alpha2": "",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": ""
+  },
+  {
+    "alpha3": "YER",
+    "numeric": "886",
+    "name": "Yemeni rial",
+    "used_by_alpha2": "YE",
+    "symbol": "ر.ي",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ZAR",
+    "numeric": "710",
+    "name": "South African rand",
+    "used_by_alpha2": "LS;NA;ZA",
+    "symbol": "R",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ZMW",
+    "numeric": "967",
+    "name": "Zambian kwacha",
+    "used_by_alpha2": "ZM",
+    "symbol": "K",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  },
+  {
+    "alpha3": "ZWL",
+    "numeric": "932",
+    "name": "Zimbabwean dollar",
+    "used_by_alpha2": "ZW",
+    "symbol": "¤",
+    "subunit_symbol": "",
+    "subunit_fraction": "100"
+  }
+]

@@ -1,0 +1,14 @@
+target/
+.env
+.env.example
+.env.test
+*.md
+.drone.yml
+.git
+frontend/node_modules/**/*
+public/**/*
+logs/**/*.log
+Dockerfile
+docker-compose.yaml
+docker-compose.production.yaml
+Procfile

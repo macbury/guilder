@@ -1,0 +1,37 @@
+{
+  "name": "guilder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arkadiusz Buras <me@macbury.ninja>",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "yarn clean",
+    "clean": "rm ../public/*.js*; rm ../public/*.css*;",
+    "dev": "node scripts/build.js",
+    "release": "NODE_ENV=production node scripts/build.js"
+  },
+  "devDependencies": {
+    "@rsuite/icons": "^1.0.2",
+    "axios": "^0.26.1",
+    "axios-hooks": "^3.0.1",
+    "esbuild": "^0.14.21",
+    "esbuild-plugin-less": "^1.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-router-dom": "^6.3.0",
+    "rsuite": "^5.16.0",
+    "styled-components": "^5.3.5",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@nivo/core": "^0.79.0",
+    "@nivo/funnel": "^0.79.1",
+    "@nivo/line": "^0.79.1",
+    "@reduxjs/toolkit": "^1.8.2",
+    "dayjs": "^1.11.2",
+    "react-icons": "^4.4.0",
+    "react-markdown": "^8.0.3",
+    "react-redux": "^8.0.2"
+  }
+}

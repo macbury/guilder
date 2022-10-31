@@ -1,0 +1,20 @@
+[package]
+name = "entity"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sea-orm = { version = "0.8.0", features = ["sqlx-postgres", "runtime-tokio-native-tls", "debug-print"] }
+trading-view = { path = "../data_sources/trading-view" }
+anyhow = { version = "^1", features = ["backtrace"] }
+tracing = "^0.1"
+chrono = "^0.4"
+rust-crypto= "^0.2"
+
+serde = "^1"
+pretty_assertions = "1.2.1"
+
+[dev-dependencies]
+tokio = { version = "1.17.0", features = ["full"] }

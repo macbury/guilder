@@ -1,0 +1,17 @@
+/target
+.env
+.vscode
+public/**/*
+/target
+db/storage/**/*
+storage/**/*
+tmp/**/*
+.vscode
+.env
+frontend/node_modules/**/*
+*.log
+frontend/output/**/*
+public/**/*
+logs/**/*
+.DS_Store
+restart.txt
