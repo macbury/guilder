@@ -38,7 +38,7 @@ async fn wait_for_dialog(driver: &WebDriver) -> Result<()> {
     dialog.wait_until()
       .error("Timed out waiting for loading dialog to disappear")
       .not_displayed()
-      .await?;
+      .await;
   }
 
   Ok(())
